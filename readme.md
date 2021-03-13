@@ -1,3 +1,2 @@
-Task 1: Add and edit TextView elements
-!['Project Create'](./project_create.JPG)
-!['Completed task 1'](./completed_task1.JPG)
+Task 2: Add a ScrollView and an active web link
+!['Completed task 1'](./completed_task2.JPG)
