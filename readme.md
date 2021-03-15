@@ -1,2 +1,2 @@
-Task 2: Add a ScrollView and an active web link
-!['Completed task 1'](./completed_task2.JPG)
+Task 3: Scroll multiple elements
+!['Linear layout in scroll view'](./linear_layout_scroll_view.JPG)
