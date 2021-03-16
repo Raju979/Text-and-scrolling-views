@@ -1,2 +1,2 @@
-Task 3: Scroll multiple elements
-!['Linear layout in scroll view'](./linear_layout_scroll_view.JPG)
+## Homework
+!['Completed homework'](./completed_homework.JPG)
